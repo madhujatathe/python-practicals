@@ -1,4 +1,4 @@
-# KCL based simple solver (2 equations)
+# program to solve electrical network(kcl) using python
 
 # Example equations:
 # (V1 - V2)/R1 + V1/R2 = I1
