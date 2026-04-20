@@ -1,3 +1,4 @@
+#A concentrated load of 1000KN is appplied at the ground surface. write a program to compute the vertical pressure. 1)at adepthof 4m below the load. 2) at a distance of 3m at the same depth. use boussinesq's equation.
 load = 1000 
 r = 4
 Z = 10
