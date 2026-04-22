@@ -1,0 +1,15 @@
+f1 = open("file1.txt","r")
+f2 = open("file2.txt","w")
+
+text = f1.read()
+text = text.replace(".",",")
+f2.write(text)
+text = text.upper()
+f2.write(text)
+text = text.lower()
+f2.write(text)
+text = text.title()
+f2.write(text)
+
+f1.close()
+f2.close()
