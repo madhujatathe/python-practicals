@@ -28,5 +28,5 @@ student.school = "pqr school"
 
 s2.show()
 
-# Deleting object
+# Deleting objects
 del s1
